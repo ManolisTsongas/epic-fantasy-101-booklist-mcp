@@ -1,5 +1,7 @@
 # Epic Fantasy 101 MCP Server
 
+[![mcptry](https://mcptry.com/badge/app.netlify.acenes-of-sparta-the-dragon-slayer/epic-fantasy-101-booklist)](https://mcptry.com/servers/app.netlify.acenes-of-sparta-the-dragon-slayer/epic-fantasy-101-booklist)
+
 An MCP server that gives AI assistants ranked epic fantasy book recommendations from **the Epic Fantasy 101**: 101 epic fantasy novels scored on eleven criteria (mood, theme, structure, further reading, creative details, real-world blend, divine influence, climax and fights, epicness, genre standard, originality).
 
 Ask your assistant things like "books like Lord of the Rings with real history and Greek mythology" and it calls this server for ranked picks with reasons.
